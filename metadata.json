@@ -1,0 +1,7 @@
+{
+  "name": "Nora - Nazafery Assistant",
+  "description": "A polite and smart Egyptian AI assistant named Nora for cleaning and landscaping services, featuring real-time voice and text interaction.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
